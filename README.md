@@ -1,5 +1,5 @@
 # PopUpAnimation
-Android demo for pop up bottom menu.
+Android demo for pop up bottom menu. Buttom menu panel sliding animation.
 
 Click on the ImageButton to open the sliding Window
 
